@@ -1,6 +1,9 @@
 {
-  "name": "Portfolio-Website",
-  "private": true,
+  "name": "patrick-portfolio",
+  "description": "A personal portfolio website showcasing projects, skills, and experiences.",
+  "author": "Patrick Wambugu",
+  "license": "MIT",
+  "homepage": "https://Pattypatii.github.io/patrick-portfolio",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -14,6 +17,7 @@
     "@react-three/drei": "^9.88.2",
     "@react-three/fiber": "^8.14.5",
     "framer-motion": "^10.12.16",
+    "gh-pages": "^6.3.0",
     "maath": "^0.10.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
