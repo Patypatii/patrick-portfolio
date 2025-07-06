@@ -54,13 +54,13 @@ Experience the live portfolio at [https://portfolio-lohit.vercel.app](https://po
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/lohitkolluri/Portfolio-Website
+git clone https://github.com/lohitkolluri/patrick-portfolio
 ```
 
 2️⃣ Navigate to project directory:
 
 ```bash
-cd Portfolio-Website
+cd patrick-portfolio
 ```
 
 3️⃣ Install dependencies:
@@ -130,7 +130,7 @@ npm run dev
 
 <div align="center">
 
-MIT License © [Lohit Kolluri](LICENSE)
+MIT License © [Patrick Wambugu](LICENSE)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
